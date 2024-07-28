@@ -1,5 +1,7 @@
 # Book Recommendation System with FastAPI and Milvus
 
+### Youtube Video Link: https://youtu.be/dvb2NSbkq1s
+
 ## Project Overview
 
 This project is a book recommendation system that leverages FastAPI for the API, Milvus for vector similarity search, and Sentence Transformers for generating embeddings from book descriptions. The system allows users to query for book recommendations based on a given search term and returns a list of relevant books along with various performance metrics.
